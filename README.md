@@ -2,10 +2,10 @@ An indicative online shop with login system and shopping cart, written in
 PHP, HTML/CSS, MySql, JavaScript using XAMPP!
 
 For running correctly:
--Import eshop.sql in phpmyadmin
--Move the folder "TechEshop" that includes .php files in "htdocs" folder of XAMPP (C:\xampp\htdocs\TechEshop) 
--Run Apache and MySql from XAMPP control panel
--Type localhost/TechEShop at your browser's URL.
+1. Import eshop.sql in phpmyadmin,
+2. Move the folder "TechEshop" that includes .php files in "htdocs" folder of XAMPP (C:\xampp\htdocs\TechEshop), 
+3. Run Apache and MySql from XAMPP control panel,
+4. Type localhost/TechEShop at your browser's URL.
 
 Users for login:
 -Admin

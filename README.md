@@ -1,5 +1,5 @@
 An indicative online shop with login system and shopping cart, written in 
-PHP, HTML/CSS and MySql using XAMPP!
+PHP, HTML/CSS, MySql and JavaScript using XAMPP!
 
 For running correctly:
 1. Import TechEshop/eshop.sql in phpmyadmin,
